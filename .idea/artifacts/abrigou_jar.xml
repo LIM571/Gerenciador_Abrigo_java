@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="abrigou:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/abrigou_jar</output-path>
+    <root id="archive" name="abrigou.jar">
+      <element id="module-output" name="abrigou" />
+    </root>
+  </artifact>
+</component>
